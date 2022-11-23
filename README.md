@@ -21,7 +21,7 @@ Screenshot:-  https://prnt.sc/Jbp0pzhT1Ciw
 
 #short Code:- 
 
-document.addEventListener("DOMContentLoaded", function() {
+#and document.addEventListener("DOMContentLoaded", function() {
           var endlessScroll = new Ajaxinate({
         container: '#product-grid',
         pagination: '.infinite_next',

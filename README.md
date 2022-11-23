@@ -21,12 +21,12 @@ Screenshot:-  https://prnt.sc/Jbp0pzhT1Ciw
 
 #short Code:- 
 
-#and document.addEventListener("DOMContentLoaded", function() {
+<script> document.addEventListener("DOMContentLoaded", function() {
           var endlessScroll = new Ajaxinate({
         container: '#product-grid',
         pagination: '.infinite_next',
 });
-        });
+        }); </script>
         
         
         #and then click on save button.

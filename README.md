@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", function() {
           var endlessScroll = new Ajaxinate({
         container: '#product-grid',
         pagination: '.infinite_next',
-
+});
         });
-        });
+        
         
         #and then click on save button.
 

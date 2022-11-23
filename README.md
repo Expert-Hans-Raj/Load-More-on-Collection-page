@@ -15,5 +15,21 @@ Screenshot:- https://prnt.sc/KbBrYRArwQiq
 </div>
 
 
+
+# after done these process open theme .liqued & copy my code & paste.
+Screenshot:-  https://prnt.sc/Jbp0pzhT1Ciw
+
+#short Code:- 
+
+document.addEventListener("DOMContentLoaded", function() {
+          var endlessScroll = new Ajaxinate({
+        container: '#product-grid',
+        pagination: '.infinite_next',
+
+        });
+        });
+        
+        #and then click on save button.
+
 Demo Url:- https://janstowelstore.myshopify.com/collections/all
 Demo Url:- https://budayalife.myshopify.com/collections/all
